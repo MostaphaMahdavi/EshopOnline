@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EshopOnline.Products.Api.props" />
+</Project>

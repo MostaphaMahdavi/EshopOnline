@@ -1,0 +1,12 @@
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\bin\Debug\net7.0\EshopOnline.Products.Core.deps.json
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\bin\Debug\net7.0\EshopOnline.Products.Core.dll
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\bin\Debug\net7.0\EshopOnline.Products.Core.pdb
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\EshopOnline.Products.Core.csproj.AssemblyReference.cache
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\EshopOnline.Products.Core.GeneratedMSBuildEditorConfig.editorconfig
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\EshopOnline.Products.Core.AssemblyInfoInputs.cache
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\EshopOnline.Products.Core.AssemblyInfo.cs
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\EshopOnline.Products.Core.csproj.CoreCompileInputs.cache
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\EshopOnline.Products.Core.dll
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\refint\EshopOnline.Products.Core.dll
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\EshopOnline.Products.Core.pdb
+J:\Test\EshopOnline\Src\Services\Products\Core\EshopOnline.Products.Core\obj\Debug\net7.0\ref\EshopOnline.Products.Core.dll

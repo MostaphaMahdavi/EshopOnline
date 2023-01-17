@@ -1,0 +1,17 @@
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\bin\Debug\net7.0\EshopOnline.Products.Services.deps.json
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\bin\Debug\net7.0\EshopOnline.Products.Services.dll
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\bin\Debug\net7.0\EshopOnline.Products.Services.pdb
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\bin\Debug\net7.0\EshopOnline.Products.Core.dll
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\bin\Debug\net7.0\EshopOnline.Products.Repositories.dll
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\bin\Debug\net7.0\EshopOnline.Products.Repositories.pdb
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\bin\Debug\net7.0\EshopOnline.Products.Core.pdb
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.csproj.AssemblyReference.cache
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.GeneratedMSBuildEditorConfig.editorconfig
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.AssemblyInfoInputs.cache
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.AssemblyInfo.cs
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.csproj.CoreCompileInputs.cache
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.csproj.CopyComplete
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.dll
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\refint\EshopOnline.Products.Services.dll
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\EshopOnline.Products.Services.pdb
+J:\Test\EshopOnline\Src\Services\Products\Services\EshopOnline.Products.Services\obj\Debug\net7.0\ref\EshopOnline.Products.Services.dll

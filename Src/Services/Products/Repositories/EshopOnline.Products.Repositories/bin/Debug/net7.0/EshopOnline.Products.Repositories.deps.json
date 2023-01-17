@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EshopOnline.Products.Repositories/1.0.0": {
+        "dependencies": {
+          "EshopOnline.Products.Core": "1.0.0"
+        },
+        "runtime": {
+          "EshopOnline.Products.Repositories.dll": {}
+        }
+      },
+      "EshopOnline.Products.Core/1.0.0": {
+        "runtime": {
+          "EshopOnline.Products.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EshopOnline.Products.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EshopOnline.Products.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

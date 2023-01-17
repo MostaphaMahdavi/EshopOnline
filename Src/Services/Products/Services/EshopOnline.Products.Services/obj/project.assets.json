@@ -1,0 +1,114 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "EshopOnline.Products.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/EshopOnline.Products.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EshopOnline.Products.Core.dll": {}
+        }
+      },
+      "EshopOnline.Products.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "EshopOnline.Products.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/EshopOnline.Products.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EshopOnline.Products.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EshopOnline.Products.Core/1.0.0": {
+      "type": "project",
+      "path": "../../Core/EshopOnline.Products.Core/EshopOnline.Products.Core.csproj",
+      "msbuildProject": "../../Core/EshopOnline.Products.Core/EshopOnline.Products.Core.csproj"
+    },
+    "EshopOnline.Products.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../../Repositories/EshopOnline.Products.Repositories/EshopOnline.Products.Repositories.csproj",
+      "msbuildProject": "../../Repositories/EshopOnline.Products.Repositories/EshopOnline.Products.Repositories.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "EshopOnline.Products.Repositories >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\mahdavi.mo\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\EshopOnline.Products.Services.csproj",
+      "projectName": "EshopOnline.Products.Services",
+      "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\EshopOnline.Products.Services.csproj",
+      "packagesPath": "C:\\Users\\mahdavi.mo\\.nuget\\packages\\",
+      "outputPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\mahdavi.mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\EshopOnline.Products.Repositories.csproj": {
+              "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\EshopOnline.Products.Repositories.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

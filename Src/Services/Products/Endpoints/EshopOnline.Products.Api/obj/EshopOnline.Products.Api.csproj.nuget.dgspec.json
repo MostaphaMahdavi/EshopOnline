@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Endpoints\\EshopOnline.Products.Api\\EshopOnline.Products.Api.csproj": {}
+  },
+  "projects": {
+    "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Core\\EshopOnline.Products.Core\\EshopOnline.Products.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Core\\EshopOnline.Products.Core\\EshopOnline.Products.Core.csproj",
+        "projectName": "EshopOnline.Products.Core",
+        "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Core\\EshopOnline.Products.Core\\EshopOnline.Products.Core.csproj",
+        "packagesPath": "C:\\Users\\mahdavi.mo\\.nuget\\packages\\",
+        "outputPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Core\\EshopOnline.Products.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahdavi.mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Endpoints\\EshopOnline.Products.Api\\EshopOnline.Products.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Endpoints\\EshopOnline.Products.Api\\EshopOnline.Products.Api.csproj",
+        "projectName": "EshopOnline.Products.Api",
+        "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Endpoints\\EshopOnline.Products.Api\\EshopOnline.Products.Api.csproj",
+        "packagesPath": "C:\\Users\\mahdavi.mo\\.nuget\\packages\\",
+        "outputPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Endpoints\\EshopOnline.Products.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahdavi.mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\EshopOnline.Products.Services.csproj": {
+                "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\EshopOnline.Products.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[7.0.2, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\EshopOnline.Products.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\EshopOnline.Products.Repositories.csproj",
+        "projectName": "EshopOnline.Products.Repositories",
+        "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\EshopOnline.Products.Repositories.csproj",
+        "packagesPath": "C:\\Users\\mahdavi.mo\\.nuget\\packages\\",
+        "outputPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahdavi.mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Core\\EshopOnline.Products.Core\\EshopOnline.Products.Core.csproj": {
+                "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Core\\EshopOnline.Products.Core\\EshopOnline.Products.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\EshopOnline.Products.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\EshopOnline.Products.Services.csproj",
+        "projectName": "EshopOnline.Products.Services",
+        "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\EshopOnline.Products.Services.csproj",
+        "packagesPath": "C:\\Users\\mahdavi.mo\\.nuget\\packages\\",
+        "outputPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Services\\EshopOnline.Products.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mahdavi.mo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\EshopOnline.Products.Repositories.csproj": {
+                "projectPath": "J:\\Test\\EshopOnline\\Src\\Services\\Products\\Repositories\\EshopOnline.Products.Repositories\\EshopOnline.Products.Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

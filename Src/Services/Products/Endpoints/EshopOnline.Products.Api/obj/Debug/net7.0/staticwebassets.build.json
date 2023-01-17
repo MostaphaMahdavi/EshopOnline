@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NE3qjZbVNiHgw2EJz91LLbDcDxLv/JHXHFv3AkI9vHk=",
+  "Source": "EshopOnline.Products.Api",
+  "BasePath": "_content/EshopOnline.Products.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
